@@ -1,0 +1,30 @@
+{
+  "name": "test",
+  "main": "server.js",
+  "dependencies": {
+    "bcrypt-nodejs": "latest",
+    "concat-stream": "latest",
+    "connect-flash": "latest",
+    "curl": "latest",
+    "d3": "latest",
+    "ejs": "latest",
+    "express": "3.4.4",
+    "eyes": "latest",
+    "fs": "latest",
+    "html": "latest",
+    "http": "latest",
+    "https": "latest",
+    "mongoose": "latest",
+    "passport": "latest",
+    "passport-facebook": "latest",
+    "passport-google-oauth": "0.1.5",
+    "passport-local": "latest",
+    "passport-twitter": "latest",
+    "plotly": "latest",
+    "url-metadata": "^2.1.7",
+    "xml2js": "latest",
+    "camaro": "latest",
+    "request-promise": "latest",
+    "lodash": "latest"
+  }
+}
