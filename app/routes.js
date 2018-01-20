@@ -1,4 +1,3 @@
-var userData = require('../users.json');
 var path = require('path');
 
 // const transform = require('camaro')
