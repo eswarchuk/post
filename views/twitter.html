@@ -53,7 +53,7 @@ xhr.onload = function( e ) {
     var img = document.querySelector( "#photo" );
     img.src = imageUrl;
 
-    OAuth.initialize("8FtK5BZDd11zcUHZnEclmtQ0lBI", {cache:true});
+    OAuth.initialize("8FtK5BZDd11zcUHZnEclmtQ0lBI", {cache:false});
     
 
     OAuth.popup("twitter").then(function(result) {
