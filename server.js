@@ -11,9 +11,11 @@ var flash    = require('connect-flash');
 var html = require('html');
 
 var configDB = require('./config/database.js');
-const transform = require('camaro')
-const rp = require('request-promise')
-const _ = require('lodash')
+// const urlMetadata = require('url-metadata');
+
+// const transform = require('camaro')
+// const rp = require('request-promise')
+// const _ = require('lodash')
 
     
 // configuration ===============================================================
