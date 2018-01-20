@@ -1,10 +1,6 @@
 {
   "name": "test",
   "main": "server.js",
-  "engines": {
-    "node": "8.6.0",
-    "npm": "5.5.1"
-  }
   "dependencies": {
     "bcrypt-nodejs": "latest",
     "concat-stream": "latest",
@@ -22,5 +18,9 @@
     "passport-local": "~0.1.6",
     "passport-twitter": "~1.0.2",
     "ejs": "~0.8.5"
+  }
+  "engines": {
+    "node": "8.6.0",
+    "npm": "5.5.1"
   }
 }
