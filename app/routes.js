@@ -78,7 +78,7 @@ module.exports = function(app, passport) {
 	// 	});
 	// });
 	
-	app.get('/patient', isLoggedIn, function(req, res) { 
+	app.get('/tweet', isLoggedIn, function(req, res) { 
         res.sendfile(path.resolve('views/twitter.html'), {
             user : req.user    
 		});
@@ -166,7 +166,7 @@ module.exports = function(app, passport) {
 		// handle the callback after twitter has authenticated the user
 		app.get('/auth/twitter/callback',
 			passport.authenticate('twitter', {
-				successRedirect : '/patient',
+				successRedirect : '/tweet',
 				failureRedirect : '/'
 			}));
 
