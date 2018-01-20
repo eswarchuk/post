@@ -10,9 +10,9 @@ module.exports = {
 	},
 
 	'twitterAuth' : {
-		'consumerKey' 		: 'kiZRr8JBWTbigUQcDwGk857V4',
-		'consumerSecret' 	: 'eIBpXQCIAzENJCBWv0Zm7rccCMDceHGDL2enJUKVgEL857qQUx',
-		'callbackURL' 		: 'http://localhost:8080/auth/twitter/callback'
+		'consumerKey' 		: 'X2WsERUc1mDmeHigMLVI56cN5',
+		'consumerSecret' 	: 'c1wy3PDckEoCUClsuNIT0tNZ4aP7ID3M1yeEtUSYZG19PXGeYf',
+		'callbackURL' 		: 'https://thawing-dawn-37785.herokuapp.com/auth/twitter/callback'
 	},
 
 	'googleAuth' : {
