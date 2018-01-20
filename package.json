@@ -5,9 +5,6 @@
     "bcrypt-nodejs": "latest",
     "concat-stream": "latest",
     "connect-flash": "latest",
-    "curl": "latest",
-    "d3": "latest",
-    "ejs": "latest",
     "express": "3.4.4",
     "eyes": "latest",
     "fs": "latest",
@@ -20,11 +17,6 @@
     "passport-google-oauth": "0.1.5",
     "passport-local": "latest",
     "passport-twitter": "latest",
-    "plotly": "latest",
-    "url-metadata": "^2.1.7",
-    "xml2js": "latest",
-    "camaro": "latest",
-    "request-promise": "latest",
-    "lodash": "latest"
+    "ejs": "latest"
   }
 }
