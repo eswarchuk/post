@@ -12,7 +12,7 @@ module.exports = {
 	'twitterAuth' : {
 		'consumerKey' 		: 'X2WsERUc1mDmeHigMLVI56cN5',
 		'consumerSecret' 	: 'c1wy3PDckEoCUClsuNIT0tNZ4aP7ID3M1yeEtUSYZG19PXGeYf',
-		'callbackURL' 		: 'https://thawing-dawn-37785.herokuapp.com/auth/twitter/callback'
+		'callbackURL' 		: 'https://tweetpic.herokuapp.com/auth/twitter/callback'
 	},
 
 	'googleAuth' : {
